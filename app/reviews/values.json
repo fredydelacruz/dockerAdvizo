@@ -1,0 +1,17 @@
+[
+{
+    "value":"01",
+    "title":"Arquitectura",
+    "description":"Spark permite escalabilidad, rendimiento, resiliencia, facilidad de uso y flexibilidad para el procesamiento de grandes conjuntos de datos."
+},
+{
+    "value":"02",
+    "title":"Orquestación",
+    "description":"Spark optimiza el uso de recursos, como CPU, memoria y almacenamiento, al distribuir el procesamiento de datos en varios nodos."
+},
+{
+    "value":"03",
+    "title":"Optimización",
+    "description":"Spark permite la elección del hardware adecuado, la utilización de técnicas de particionamiento y almacenamiento eficientes."
+}
+]
