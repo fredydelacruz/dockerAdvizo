@@ -4,3 +4,9 @@ bash:
 	-v ${PWD}:/app \
 	-w /app \
 	-it node:18 bash
+
+build:
+	docker build -t react .
+
+
+

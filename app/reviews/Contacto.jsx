@@ -12,7 +12,7 @@ export default function Contacto() {
             pt-2
             `}
         >
-          Contacto: fredy.delacruz@techadvizo.com
+          Contact: fredy.delacruz@techadvizo.com
         </h1>
       </div>
     );
